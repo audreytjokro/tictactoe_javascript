@@ -1,3 +1,8 @@
+/* January 11, 2023
+Created by Audrey Christabel Tjokro
+Project idea and guidance from https://javascript.plainenglish.io/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc
+*/
+
 /*
 We store our game status element here to allow us to more easily 
 use it later on 
